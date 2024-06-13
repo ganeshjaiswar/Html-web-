@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+
+h3{
+    color: yellow;
+}
+
+.font-apply{
+    font-size: 20px;
+    font-weight: 300;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+}
+
+.transformation-apply{
+    text-transform: capitalize ;
+}
+
+.decoration-apply{
+    text-decoration: underline;
+}
