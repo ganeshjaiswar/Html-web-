@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
     <title>HTML Practice</title>
 </head>
 <body>
@@ -14,7 +13,7 @@
     <h6>Heading 6</h6>
 
     <p><b>Bold text</b> and <i>italic text</i></p>
-    <p><sup>Superscript</sup> and <sub>Subscript</sub></p>
+    <p><sup> this is Superscript</sup> and <sub>this is Subscript</sub></p>
 
     <ul>
         <li>Unordered list item 1</li>
